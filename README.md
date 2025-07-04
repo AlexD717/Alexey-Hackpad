@@ -5,7 +5,7 @@ Custom macro pad with 7 keys, an encoder, and an LED light bar, using KMK firmwa
 ## Features
 
 - 7 keys
-- - One key to switch between layers, 6 for macros
+  - One key to switch between layers, 6 for macros
 - EC11 Rotary encoder with push switch
 - LED Light bar displaying custom status
 - Custom 2-layer PCB
