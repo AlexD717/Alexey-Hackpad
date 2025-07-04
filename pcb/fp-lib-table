@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OPL")(type "KiCad")(uri "C:/Users/ad717/Documents/KiCad/9.0/footprints/Seeed Studio XIAO Series Library")(options "")(descr ""))
+  (lib (name "HackPad")(type "KiCad")(uri "C:/Users/ad717/Documents/KiCad/9.0/footprints/Hackpad_Components")(options "")(descr ""))
+  (lib (name "OLED")(type "KiCad")(uri "C:/Users/ad717/Documents/KiCad/9.0/footprints/Hackpad_Components/KiCad-SSD1306-0.91-OLED-4pin-128x32.pretty-master")(options "")(descr ""))
+)
