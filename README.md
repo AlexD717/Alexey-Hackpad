@@ -1,10 +1,11 @@
 # Alexey-Hackpad
 
-Custom macro pad with 7 keys, an encoder, and an LED light bar.
+Custom macro pad with 7 keys, an encoder, and an LED light bar, using KMK firmware.
 
 ## Features
 
 - 7 keys
+- - One key to switch between layers, 6 for macros
 - EC11 Rotary encoder with push switch
 - LED Light bar displaying custom status
 - Custom 2-layer PCB
@@ -21,6 +22,8 @@ Custom macro pad with 7 keys, an encoder, and an LED light bar.
 
 ## PCB Design
 
+This PCB was made in KiCad.
+
 ### Schematic
 
 ![pcb-schematic](assets/Schematic_Design.png)
@@ -30,6 +33,12 @@ Custom macro pad with 7 keys, an encoder, and an LED light bar.
 ![pcb-design](assets/PCB_Design.png)
 
 ## Firware
+
+This hackpad uses KMK for its firmware.
+
+- One switch is in charge of switching layers
+- Other six keys act as custom macros
+- Rotary encoder controls volume and plays/stops music
 
 ## BOM
 
