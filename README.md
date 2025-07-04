@@ -1,7 +1,9 @@
 # Alexey-Hackpad
+
 Custom macro pad with 7 keys, an encoder, and an LED light bar.
 
 ## Features
+
 - 7 keys
 - EC11 Rotary encoder with push switch
 - LED Light bar displaying custom status
@@ -9,13 +11,28 @@ Custom macro pad with 7 keys, an encoder, and an LED light bar.
 
 ## CAD Model
 
+### Assembly
+
+![cad-assembly](assets/CAD_Assembly.png)
+
+### Render
+
+![cad-render](assets/CAD_Render.png)
+
 ## PCB Design
+
 ### Schematic
+
+![pcb-schematic](assets/Schematic_Design.png)
+
 ### PCB
+
+![pcb-design](assets/PCB_Design.png)
 
 ## Firware
 
 ## BOM
+
 - Seeed XIAO RP2040
 - 7x Cherry MX Switches
 - 7x DSA Keycaps
